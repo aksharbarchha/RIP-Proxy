@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "297276934266",
+    "firebase_url": "https://attendance-tracker-e1c6d.firebaseio.com",
+    "project_id": "attendance-tracker-e1c6d",
+    "storage_bucket": "attendance-tracker-e1c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297276934266:android:e59ce5420586034555d3c3",
+        "android_client_info": {
+          "package_name": "com.alphadevs.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297276934266-3breka2a31ote81ok9434epbgibkbh9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alphadevs.attendance",
+            "certificate_hash": "be1aea18168fbc3ee6ef125c9ccfd3904cd796c5"
+          }
+        },
+        {
+          "client_id": "297276934266-7kjajre16pc9jov0u9nhspk3ek2qtt8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvNXOPx8-2aYAhePt4dx-4B1xAQKRWSks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297276934266-7kjajre16pc9jov0u9nhspk3ek2qtt8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297276934266:android:d9e1e8a92316ce2a55d3c3",
+        "android_client_info": {
+          "package_name": "com.alphadevs.attendancetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297276934266-orrjjt48fqa2q2o0m4vh48h9f75hck5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alphadevs.attendancetracker",
+            "certificate_hash": "0ed331fe9491a4f73d72517a4f994ad9492404f1"
+          }
+        },
+        {
+          "client_id": "297276934266-7kjajre16pc9jov0u9nhspk3ek2qtt8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvNXOPx8-2aYAhePt4dx-4B1xAQKRWSks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297276934266-7kjajre16pc9jov0u9nhspk3ek2qtt8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
